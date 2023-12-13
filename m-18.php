@@ -42,7 +42,7 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l2.jpg"/>
+      <img src="images/actions/a-l/l5.jpg"/>
     </a>
     </div>
   </section>
@@ -55,7 +55,7 @@ if (!isset($_SESSION["user"])) {
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tI1JGPhYBS8" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -84,8 +84,8 @@ if (!isset($_SESSION["user"])) {
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="#" target="_blank">#</a></p>
-        <p><a href="#" target="_blank">#</a></p>
+        <p><a href="http://tinyurl.com/3urb7sah" target="_blank">http://tinyurl.com/3urb7sah</a></p>
+        <p><a href="http://tinyurl.com/29p8v6fb" target="_blank">http://tinyurl.com/29p8v6fb</a></p>
       </div>
 
 
