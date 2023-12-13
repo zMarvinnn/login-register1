@@ -21,7 +21,7 @@ if (!isset($_SESSION["user"])) {
 <div>
   <nav>
     <a href="index.php" class="logo">
-      <img src="images/Movmax.png"/>
+      <img src="images/Movmax1.png"/>
     </a>
     <u class="menu">
       <li><a href="index.php">Home</a></li>
@@ -53,6 +53,17 @@ if (!isset($_SESSION["user"])) {
     </div>
   </div>
 
+  <section>
+  <div class="Trailer">
+      <a href="https://www.youtube.com/watch?v=QF-oyCwaArU" target="_blank">
+      <button>
+        TRAILER <img src="images/play-regular-24.png" alt="">
+      </button>
+      </a>
+      
+    </div>
+    </section>
+
   <div class="label">
     <div class="flex">
       <div class="card">
@@ -73,7 +84,7 @@ if (!isset($_SESSION["user"])) {
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p>#</p>
+        <p><a href="https://bit.ly/3Ryly7W" target="_blank">https://bit.ly/3Ryly7W</a></p>
       </div>
 
 
@@ -82,7 +93,147 @@ if (!isset($_SESSION["user"])) {
 
   </section>
 
+  <div class="Title1">
+    <div class="box">
+      <b>You may also like</b>
+    </div>
+  </div>
 
+
+<section id= "movies-list">
+    <!---box1---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+        <div class="quality">HD</div>
+        <img src="images/m1.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="Mission.php">
+      Mission: Impossible - Dead Reckoning Part One
+      </a>
+      <p>Action Movie</p>
+    </div>
+
+    <!---box2---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m2.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-2.php">
+      The Equalizer 3
+      </a>
+      <p>Action Movie</p>
+    </div>
+
+
+    <!---box4---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m4.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-4.php">
+      The Exorcist: Believer
+      </a>
+      <p>Horror Movie</p>
+    </div>
+
+
+    <!---box5---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m5.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-5.php">
+      Saw X
+      </a>
+      <p>Horror Movie</p>
+    </div>
+
+
+
+    <!---box6---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m6.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-6.php">
+      Barbie
+      </a>
+      <p>Comedy, Adventure, Fantasy</p>
+    </div>
+
+
+    <!---box7---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m7.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-7.php">
+      Blue Beetle
+      </a>
+      <p>Action Movie</p>
+    </div>
+
+
+
+    <!---box8---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m8.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-8.php">
+      Talk to Me
+      </a>
+      <p>Horror Movie</p>
+    </div>
+
+
+    <!---box9---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m10.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-9.php">
+      Expend4bles
+      </a>
+      <p>Action</p>
+    </div>
+
+    <!---box10---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/m9.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-10.php">
+      Meg 2: The Trench
+      </a>
+      <p>Action</p>
+    </div>
 
 
   
