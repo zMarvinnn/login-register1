@@ -42,7 +42,7 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l2.jpg"/>
+      <img src="images/horror/a-l/l8.jpg"/>
     </a>
     </div>
   </section>

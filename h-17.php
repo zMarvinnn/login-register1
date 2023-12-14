@@ -212,7 +212,7 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m10.jpg" alt="">
+        <img src="images/horror/a-l/l17.jpg" alt="">
       </div>
       <!---text---->
       <a href="m-9.php">
