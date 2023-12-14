@@ -42,20 +42,20 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l11.jpg"/>
+      <img src="images/actions/a-l/l15.jpg"/>
     </a>
     </div>
   </section>
 
   <div class="Title1">
     <div class="box">
-      <b>Enola Holmes 2</b>
+      <b>John Wick: Chapter 3 - Parabellum</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=KKXNmYoPkx0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M7XM597XO94" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.</p>
+        <p>Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2022-10-27</p>
-        <p><b>Genre:</b> Crime, Mystery, Adventure</p>
-        <p><b>Casts:</b> Susan Wokoma, Martyn Mayger, Helena Bonham Carter, Sharon Duncan-Brewster, Serrana Su-Ling Bliss</p>
-        <p><b>Duration:</b> 129 min</p>
+        <p><b>Released:</b> 2019-05-15</p>
+        <p><b>Genre:</b> Crime, Action, Thriller</p>
+        <p><b>Casts:</b> Keanu Reeves, Halle Berry, Ian McShane, Laurence Fishburne, Anjelica Huston</p>
+        <p><b>Duration:</b> 131 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> PCMA Productions, Legendary Entertainment</p>
+        <p><b>Production:</b> Lionsgate, Summit Entertainment, Thunder Road Pictures, 87Eleven Productionst</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="http://tinyurl.com/49p6f8x7" target="_blank">http://tinyurl.com/49p6f8x7</a></p>
-        <p><a href="http://tinyurl.com/2sxcvp77" target="_blank">http://tinyurl.com/2sxcvp77</a></p>
+        <p><a href="http://tinyurl.com/2z57vehd" target="_blank">http://tinyurl.com/2z57vehd</a></p>
+        <p><a href="http://tinyurl.com/fuw6thmt" target="_blank">http://tinyurl.com/fuw6thmt</a></p>
       </div>
 
 

@@ -42,20 +42,20 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l11.jpg"/>
+      <img src="images/actions/a-l/l13.jpg"/>
     </a>
     </div>
   </section>
 
   <div class="Title1">
     <div class="box">
-      <b>Enola Holmes 2</b>
+      <b>Uncharted</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=KKXNmYoPkx0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eHp3MbsCbMg" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,22 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.</p>
+        <p>A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2022-10-27</p>
-        <p><b>Genre:</b> Crime, Mystery, Adventure</p>
-        <p><b>Casts:</b> Susan Wokoma, Martyn Mayger, Helena Bonham Carter, Sharon Duncan-Brewster, Serrana Su-Ling Bliss</p>
-        <p><b>Duration:</b> 129 min</p>
+        <p><b>Released:</b> 2022-02-10</p>
+        <p><b>Genre:</b> Adventure, Action</p>
+        <p><b>Casts:</b> Mark Wahlberg, Antonio Banderas, Tom Holland, Tati Gabrielle, Sophia Taylor Ali</p>
+        <p><b>Duration:</b> 95 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> PCMA Productions, Legendary Entertainment</p>
+        <p><b>Production:</b> Arad Productions, Columbia Pictures, Atlas Entertainment, Naughty Dog, PlayStation Productions</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="http://tinyurl.com/49p6f8x7" target="_blank">http://tinyurl.com/49p6f8x7</a></p>
-        <p><a href="http://tinyurl.com/2sxcvp77" target="_blank">http://tinyurl.com/2sxcvp77</a></p>
+        <p><a href="http://tinyurl.com/yvbaf38y" target="_blank">http://tinyurl.com/yvbaf38y</a></p>
       </div>
 
 

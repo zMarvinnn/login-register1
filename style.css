@@ -582,3 +582,68 @@ button {
 
 
 
+.container9{
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.pagination{
+	display: flex;
+	align-items: center;
+	background: #fff;
+	color: #383838;
+	padding: 10px 40px;
+	border-radius: 6px;
+
+}
+
+ul{
+	margin: 20px 30px;
+
+}
+
+ul li{
+	display: inline-block;
+	margin: 0 10px;
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	text-align: center;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 45px;
+	cursor: pointer;
+}
+
+ul li.active{
+	color: #FFF;
+	background-image: linear-gradient(#ff4568,#ff4568);
+	background-repeat: no-repeat;
+}
+
+
+
+.btn11, .btn22{
+	display: inline-flex;
+	align-items: center;
+	font-size: 22px;
+	font-weight: 500;
+	color: #383838;
+	background: transparent;
+	outline: none;
+	border: none;
+}
+
+.btn11 img{
+	width: 24px;
+	margin-right: 15px;
+}
+
+
+.btn22 img{
+	width: 24px;
+	margin-left: 15px;
+	transform: rotate(180deg);
+}

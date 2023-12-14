@@ -42,20 +42,20 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l11.jpg"/>
+      <img src="images/actions/a-l/l14.jpg"/>
     </a>
     </div>
   </section>
 
   <div class="Title1">
     <div class="box">
-      <b>Enola Holmes 2</b>
+      <b>The Woman King</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=KKXNmYoPkx0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3RDaPV_rJ1Y" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.</p>
+        <p>The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2022-10-27</p>
-        <p><b>Genre:</b> Crime, Mystery, Adventure</p>
-        <p><b>Casts:</b> Susan Wokoma, Martyn Mayger, Helena Bonham Carter, Sharon Duncan-Brewster, Serrana Su-Ling Bliss</p>
-        <p><b>Duration:</b> 129 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> PCMA Productions, Legendary Entertainment</p>
+        <p><b>Released:</b> 2022-09-15</p>
+        <p><b>Genre:</b> History, Action, Drama</p>
+        <p><b>Casts:</b>  Viola Davis, Thuso Mbedu, Jayme Lawson, John Boyega, Adrienne Warren</p>
+        <p><b>Duration:</b> 135 min</p>
+        <p><b>Country:</b> Canada, United States of America</p>
+        <p><b>Production:</b> TriStar Pictures, Entertainment One, JuVee Productions, Jack Blue Productions</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="http://tinyurl.com/49p6f8x7" target="_blank">http://tinyurl.com/49p6f8x7</a></p>
-        <p><a href="http://tinyurl.com/2sxcvp77" target="_blank">http://tinyurl.com/2sxcvp77</a></p>
+        <p><a href="http://tinyurl.com/2s38ehn2" target="_blank">http://tinyurl.com/2s38ehn2</a></p>
+        <p><a href="http://tinyurl.com/2tewyyxh" target="_blank">http://tinyurl.com/2tewyyxh</a></p>
       </div>
 
 

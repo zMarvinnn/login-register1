@@ -42,20 +42,20 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l11.jpg"/>
+      <img src="images/actions/a-l/l16.jpg"/>
     </a>
     </div>
   </section>
 
   <div class="Title1">
     <div class="box">
-      <b>Enola Holmes 2</b>
+      <b>War for the Planet of the Apes</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=KKXNmYoPkx0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UEP1Mk6Un98" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.</p>
+        <p>Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2022-10-27</p>
-        <p><b>Genre:</b> Crime, Mystery, Adventure</p>
-        <p><b>Casts:</b> Susan Wokoma, Martyn Mayger, Helena Bonham Carter, Sharon Duncan-Brewster, Serrana Su-Ling Bliss</p>
-        <p><b>Duration:</b> 129 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> PCMA Productions, Legendary Entertainment</p>
+        <p><b>Released:</b> 2017-07-11</p>
+        <p><b>Genre:</b> Drama, Science Fiction, War</p>
+        <p><b>Casts:</b> Andy Serkis, Woody Harrelson, Steve Zahn, Karin Konoval, Terry Notary</p>
+        <p><b>Duration:</b> 140 min</p>
+        <p><b>Country:</b> Canada, New Zealand, United States of America</p>
+        <p><b>Production:</b> TSG Entertainment, Chernin Entertainment, 20th Century Fox</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="http://tinyurl.com/49p6f8x7" target="_blank">http://tinyurl.com/49p6f8x7</a></p>
-        <p><a href="http://tinyurl.com/2sxcvp77" target="_blank">http://tinyurl.com/2sxcvp77</a></p>
+        <p><a href="http://tinyurl.com/2p9586nh" target="_blank">http://tinyurl.com/2p9586nh</a></p>
+        <p><a href="http://tinyurl.com/27p75r7t" target="_blank">http://tinyurl.com/27p75r7t</a></p>
       </div>
 
 

@@ -42,20 +42,20 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l18.jpg"/>
+      <img src="images/actions/a-l/l2.jpg"/>
     </a>
     </div>
   </section>
 
   <div class="Title1">
     <div class="box">
-      <b>Noah</b>
+      <b>Heart of Stone</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=fdu10cX3pWA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.</p>
+        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2014-03-07</p>
-        <p><b>Genre:</b> Drama, Adventure</p>
-        <p><b>Casts:</b> Russell Crowe, Jennifer Connelly, Emma Watson, Logan Lerman, Anthony Hopkins</p>
-        <p><b>Duration:</b> 138 min</p>
+        <p><b>Released:</b> 2023-08-09</p>
+        <p><b>Genre:</b> Thriller, Action</p>
+        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
+        <p><b>Duration:</b> 125 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Disruption Entertainment, Paramount, Regency Enterprises, Protozoa Pictures</p>
+        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="http://tinyurl.com/2ahd8a58" target="_blank">http://tinyurl.com/2ahd8a58</a></p>
-        <p><a href="http://tinyurl.com/42dznrt8" target="_blank">http://tinyurl.com/42dznrt8</a></p>
+        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
+        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
       </div>
 
 
@@ -239,4 +239,4 @@ if (!isset($_SESSION["user"])) {
   
 </div>
 </body>
-</html>
+</html>s

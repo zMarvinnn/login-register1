@@ -79,40 +79,7 @@ if (!isset($_SESSION["user"])) {
   </div>
 
 
-  <section id="main">
-      <!---heading---->
-      
-      <!---box1---->
-    <div class="showcase-box">
-    <a href="Mission.php" class="s1">
-      <img src="images/s1.jpg"/>
-    </a>
-    </div>
-
-      <!---box2---->
-      <div class="showcase-box">
-    <a href="#" class="s2">
-      <img src="images/s2.jpg"/>
-    </a>
-    </div>
-
-    <!---box3---->
-    <div class="showcase-box">
-    <a href="thenun.php" class="s3">
-      <img src="images/s3.jpg"/>
-    </a>
-    </div>
-
-
-    <!---box3---->
-    <div class="showcase-box">
-    <a href="m-4.php" class="s3">
-      <img src="images/s4.jpg"/>
-    </a>
-    </div>
-
   
-  </section>
 
   <!----------------------------Latest Movies------------------------>
 
@@ -1001,45 +968,6 @@ if (!isset($_SESSION["user"])) {
 
 
 
-
-
-<div class="container9">
-  <div class="pagination">
-    <button class="btn11" onclick="backBtn()"> <img src="images/arrow.png"> prev</button>
-    <ul>
-      <li class="link active" value="1" onclick="activeLink()">1</li>
-      <li class="#" value="2" onclick="activeLink()">2</li>
-      <li class="#" value="3" onclick="activeLink()">3</li>
-
-    </ul>
-    <button class="btn22" onclick="nextBtn()">next <img src="images/arrow.png"></button>
-  </div>
-
-</div>
-
-<script>
-
-  let link = document.getElementsByClassName("link");
-
-  let currentValue = 1;
-      for(l of link){
-        l.classList.remove("active");
-        event.target.classList.add("active");
-        currentValue =event.target.value;
-      }
-
-      function backBtn(){
-        if(currentValue > 1){
-          for(l of link){
-            l.classList.remove("active");
-          }
-          currentValue--;
-          link[currentValue-1].classList.add("active");
-        }
-      }
-
-
-</script>
     
 
     

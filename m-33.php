@@ -42,20 +42,20 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="m-13.php" class="s1">
-      <img src="images/actions/a-l/l11.jpg"/>
+      <img src="images/actions/a-l/l20.jpg"/>
     </a>
     </div>
   </section>
 
   <div class="Title1">
     <div class="box">
-      <b>Enola Holmes 2</b>
+      <b>Red Notice</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=KKXNmYoPkx0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Pj0wz7zu3Ms" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.</p>
+        <p>An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2022-10-27</p>
-        <p><b>Genre:</b> Crime, Mystery, Adventure</p>
-        <p><b>Casts:</b> Susan Wokoma, Martyn Mayger, Helena Bonham Carter, Sharon Duncan-Brewster, Serrana Su-Ling Bliss</p>
-        <p><b>Duration:</b> 129 min</p>
+        <p><b>Released:</b> 2021-11-04</p>
+        <p><b>Genre:</b> Comedy, Action, Thriller, Crime</p>
+        <p><b>Casts:</b> Ryan Reynolds, Gal Gadot, Dwayne Johnson, Rafael Petardi, Christopher Cocke</p>
+        <p><b>Duration:</b> 116 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> PCMA Productions, Legendary Entertainment</p>
+        <p><b>Production:</b> Flynn Picture Company, Legendary Entertainment, Bad Version, Inc., Seven Bucks Productions</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="http://tinyurl.com/49p6f8x7" target="_blank">http://tinyurl.com/49p6f8x7</a></p>
-        <p><a href="http://tinyurl.com/2sxcvp77" target="_blank">http://tinyurl.com/2sxcvp77</a></p>
+        <p><a href="http://tinyurl.com/3fzmy8ry" target="_blank">http://tinyurl.com/3fzmy8ry</a></p>
+        <p><a href="http://tinyurl.com/mr3a3azp" target="_blank">http://tinyurl.com/mr3a3azp</a></p>
       </div>
 
 
@@ -102,46 +102,74 @@ if (!isset($_SESSION["user"])) {
 
 
 <section id= "movies-list">
-    <!---box1---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-        <div class="quality">HD</div>
-        <img src="images/m1.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="Mission.php">
-      Mission: Impossible - Dead Reckoning Part One
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box2---->
+    <!---box17---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m2.jpg" alt="">
+        <img src="images/actions/a-p/p12.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-2.php">
-      The Equalizer 3
+      <a href="m-25.php">
+      Enola Holmes
       </a>
       <p>Action Movie</p>
     </div>
 
-    <!---box3---->
+    <!---box18---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m3.jpg" alt="">
+        <img src="images/actions/a-p/p26.jpg" alt="">
       </div>
       <!---text---->
-      <a href="thenun.php">
-      The Nun II
+      <a href="m-26.php">
+      Uncharted
       </a>
-      <p>Horror Movie</p>
+      <p>Action Movie</p>
+    </div>
+
+    <!---box19---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/actions/a-p/p27.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-27.php">
+      The Woman King
+      </a>
+      <p>Action Movie</p>
+    </div>
+
+    <!---box20---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/actions/a-p/p28.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-28.php">
+      John Wick: Chapter 3 - Parabellum
+      </a>
+      <p>Action Movie</p>
+    </div>
+
+    <!---box21---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/actions/a-p/p29.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="m-29.php">
+      War for the Planet of the Apes
+      </a>
+      <p>Action Movie</p>
     </div>
 
 
