@@ -12,6 +12,7 @@ if (!isset($_SESSION["user"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>MovMax</title>
     <link rel="shortcut icon" href="images/Movmax.png"/>
     <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
@@ -19,36 +20,6 @@ if (!isset($_SESSION["user"])) {
 <body>
 
 <!---slider---->
-<section id="main">
-
-<div class="slides">
-
-<div class="slide slide-1">
-  <img src="images/s1.jpg" alt="">
-</div>
-
-<div class="slide slide-2">
-  <img src="images/s2.jpg" alt="">
-</div>
-
-<div class="slide slide-3">
-  <img src="images/s3.jpg" alt="">
-</div>
-
-<div class="slide slide-4">
-  <img src="images/s4.jpg" alt="">
-</div>
-
-<div class="slide slide-5">
-  <img src="images/landscape/m13.jpg" alt="">
-</div>
-
-<div class="slide slide-6">
-  <img src="images/landscape/m10.jpg" alt="">
-</div>
-
-</div>
-  </section>
 
 <div>
   <nav>
@@ -58,7 +29,7 @@ if (!isset($_SESSION["user"])) {
     <u class="menu">
       <li><a href="index.php">Home</a></li>
       <li><a href="#">categories</a></li>
-      <li><a href="#">Horror</a></li>
+      <li><a href="#">Romance</a></li>
       <li><a href="#">About</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
@@ -66,25 +37,17 @@ if (!isset($_SESSION["user"])) {
       <input type="text" placeholder="Find your Favorite Movies Here"/>
       <i class="fas fa-search"></i>
     </div>
-    
-
-
-
+  
   </nav>
-
-  <div class="Title1">
-    <div class="box">
-      <b>SHOWCASE</b>
-    </div>
-  </div>
-
 
   
 
-  <!----------------------------Latest Movies------------------------>
+                <!----------------------------Adventure Movies------------------------>
+
+  </section>
 
   <section id="latest">
-    <h6 class="latest-heading"><b>Latest Movies</b></h6>
+    <h6 class="latest-heading"><b>Adventure Movies</b></h6>
   </section>
 
   <section id= "movies-list">
@@ -93,13 +56,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
         <div class="quality">HD</div>
-        <img src="images/m1.jpg" alt="">
+        <img src="images/adventure/a-p/p1.jpg" alt="">
       </div>
       <!---text---->
-      <a href="Mission.php">
-      Mission: Impossible - Dead Reckoning Part One
+      <a href="g-1.php">
+      amazing spider man 2
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box2---->
@@ -107,13 +70,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m2.jpg" alt="">
+        <img src="images/adventure/a-p/p2.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-2.php">
-      The Equalizer 3
+      <a href="g-2.php">
+      BATTLE_ LOS ANGELES
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box3---->
@@ -121,13 +84,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m3.jpg" alt="">
+        <img src="images/adventure/a-p/p3.jpg" alt="">
       </div>
       <!---text---->
-      <a href="thenun.php">
-      The Nun II
+      <a href="g-3.php">
+      Battleship 
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 
@@ -136,13 +99,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m4.jpg" alt="">
+        <img src="images/adventure/a-p/p4.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-4.php">
-      The Exorcist: Believer
+      <a href="g-4.php">
+      Divergent
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 
@@ -151,254 +114,97 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m5.jpg" alt="">
+        <img src="images/adventure/a-p/p5.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-5.php">
-      Saw X
+      <a href="g-5.php">
+      Dora and the Lost City of Gold
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
     </div>
-
-
 
     <!---box6---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m6.jpg" alt="">
+        <img src="images/adventure/a-p/p6.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-6.php">
-      Barbie
+      <a href="g-6.php">
+      how to train dragon 2
       </a>
-      <p>Comedy, Adventure, Fantasy</p>
+      <p>Adventure Movie</p>
     </div>
-
 
     <!---box7---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m7.jpg" alt="">
+        <img src="images/adventure/a-p/p7.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-7.php">
-      Blue Beetle
+      <a href="g-7.php">
+      Journey 2 - The Mysterious Island
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
-
-
 
     <!---box8---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m8.jpg" alt="">
+        <img src="images/adventure/a-p/p8.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-8.php">
-      Talk to Me
+      <a href="g-8.php">
+      Jumanji 2 The next level
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
-
-    <!---box9---->
+<!---box9---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m10.jpg" alt="">
+        <img src="images/adventure/a-p/p9.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-9.php">
-      Expend4bles
+      <a href="g-9.php">
+      Jumanji_ Welcome to the Jungle
       </a>
-      <p>Action</p>
+      <p>Adventure Movie</p>
     </div>
 
-    <!---box10---->
+<!---box10---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m9.jpg" alt="">
+        <img src="images/adventure/a-p/p10.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-10.php">
-      Meg 2: The Trench
+      <a href="g-10.php">
+      jungle cruise
       </a>
-      <p>Action</p>
+      <p>Adventure Movie</p>
     </div>
 
-                <!----------------------------Actions Movies------------------------>
-
-  </section>
-
-  <section id="latest">
-    <h6 class="latest-heading"><b>Actions Movies</b></h6>
-  </section>
-
-  <section id= "movies-list">
-    <!---box1---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-        <div class="quality">HD</div>
-        <img src="images/m1.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="Mission.php">
-      Mission: Impossible - Dead Reckoning Part One
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box2---->
+<!---box11---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m2.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-2.php">
-      The Equalizer 3
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box3---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/patayo/p8.jpg" alt="">
+        <img src="images/adventure/a-p/p11.jpg" alt="">
       </div>
       <!---text---->
       <a href="m-11.php">
-      Transformers: Age of Extinction
+      Jupiter Ascending [2015]
       </a>
-      <p>Action Movie</p>
-    </div>
-
-
-    <!---box4---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/patayo/p9.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-12.php">
-      Extraction 2
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-
-    <!---box5---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/patayo/p10.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-13.php">
-      Bumblebee
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box6---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/actions/a-p/p1.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-14.php">
-      The Creator
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box7---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/actions/a-p/p2.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-15.php">
-      Heart of Stone
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box8---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/actions/a-p/p3.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-16.php">
-      6 Underground
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-<!---box9---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/actions/a-p/p4.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-17.php">
-      APOSTLE
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-<!---box10---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/actions/a-p/p5.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-18.php">
-      ARMY OF THE DEAD
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-<!---box11---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/actions/a-p/p6.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-19.php">
-      AVA
-      </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 <!---box12---->
@@ -406,13 +212,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p7.jpg" alt="">
+        <img src="images/adventure/a-p/p12.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-20.php">
-      Bullet Train
+      <a href="g-12.php">
+      Jurassic World Fallen Kingdom
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 <!---box13---->
@@ -420,13 +226,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p8.jpg" alt="">
+        <img src="images/adventure/a-p/p13.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-21.php">
-      Cold Pursuit
+      <a href="g-13.php">
+      Love And Monsters
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 <!---box14---->
@@ -434,13 +240,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p9.jpg" alt="">
+        <img src="images/adventure/a-p/p14.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-22.php">
-      Da 5 Bloods
+      <a href="g-14.php">
+      Monster Hunter (2020)
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 <!---box15---->
@@ -448,13 +254,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p10.jpg" alt="">
+        <img src="images/adventure/a-p/p15.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-23.php">
-      Dune
+      <a href="g-15.php">
+      snake eye gi Joe
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 <!---box16---->
@@ -462,13 +268,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p11.jpg" alt="">
+        <img src="images/adventure/a-p/p16.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-24.php">
-      Enola Holmes 2
+      <a href="g-16.php">
+      space sweeper
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 <!---box17---->
@@ -476,13 +282,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p12.jpg" alt="">
+        <img src="images/adventure/a-p/p17.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-25.php">
-      Enola Holmes
+      <a href="g-17.php">
+      The Adam Project
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box18---->
@@ -490,13 +296,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p26.jpg" alt="">
+        <img src="images/adventure/a-p/p18.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-26.php">
-      Uncharted
+      <a href="g-18.php">
+      The last witch hunter
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box19---->
@@ -504,13 +310,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p27.jpg" alt="">
+        <img src="images/adventure/a-p/p19.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-27.php">
-      The Woman King
+      <a href="g-19.php">
+      The Mummy_ Tomb of the Dragon Emperor
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box20---->
@@ -518,13 +324,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p28.jpg" alt="">
+        <img src="images/adventure/a-p/p20.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-28.php">
-      John Wick: Chapter 3 - Parabellum
+      <a href="g-20.php">
+      transformer dark of the moon
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box21---->
@@ -532,13 +338,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p29.jpg" alt="">
+        <img src="images/adventure/a-p/p21.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-29.php">
-      War for the Planet of the Apes
+      <a href="g-21.php">
+      transformer revenge of the fallen
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box22---->
@@ -546,13 +352,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p30.jpg" alt="">
+        <img src="images/adventure/a-p/p22.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-30.php">
-      Spider-Man: Across the Spider-Verse
+      <a href="g-22.php">
+      Transformers_ The Last Knight
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box23---->
@@ -560,13 +366,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p31.jpg" alt="">
+        <img src="images/adventure/a-p/p23.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-31.php">
-      Noah
+      <a href="g-23.php">
+      TROLL
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box24---->
@@ -574,13 +380,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p32.jpg" alt="">
+        <img src="images/adventure/a-p/p24.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-32.php">
-      The Mother
+      <a href="g-24.php">
+      world war z
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box25---->
@@ -588,13 +394,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/actions/a-p/p33.jpg" alt="">
+        <img src="images/adventure/a-p/p25.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-33.php">
-      Red Notice
+      <a href="g-25.php">
+      The 5th Wave
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
 
@@ -602,11 +408,11 @@ if (!isset($_SESSION["user"])) {
     </div>
 
 
-     <!------------------------------------------------------------------------------------------------Horror---->
+     <!------------------------------------------------------------------------------------------------Romance---->
 
 
     <section id="latest">
-    <h6 class="latest-heading"><b>Horror Movies</b></h6>
+    <h6 class="latest-heading"><b>Romance Movies</b></h6>
   </section>
 
   <section id= "movies-list">
@@ -615,13 +421,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
         <div class="quality">HD</div>
-        <img src="images/horror/a-p/p1.jpg" alt="">
+        <img src="images/Romance/a-p/p1.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-1.php">
-      1922
+      <a href="r-1.php">
+      a tourist guide to love
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box2---->
@@ -629,13 +435,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p2.jpg" alt="">
+        <img src="images/Romance/a-p/p2.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-2.php">
-      A Quiet Place 2 
+      <a href="r-2.php">
+      alex strangelove 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box3---->
@@ -643,13 +449,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p3.jpg" alt="">
+        <img src="images/Romance/a-p/p3.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-3.php">
-      Apostle 
+      <a href="r-3.php">
+      along for the ride 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 
@@ -658,13 +464,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p4.jpg" alt="">
+        <img src="images/Romance/a-p/p4.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-4.php">
-      Bird Box 
+      <a href="r-4.php">
+      always be my maybe 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 
@@ -673,13 +479,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p5.jpg" alt="">
+        <img src="images/Romance/a-p/p5.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-5.php">
-      Clarita 
+      <a href="r-5.php">
+      good on paper
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box6---->
@@ -687,13 +493,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p6.jpg" alt="">
+        <img src="images/Romance/a-p/p6.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-6.php">
-      Eerie 
+      <a href="r-6.php">
+      Greenberg 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box7---->
@@ -701,13 +507,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p7.jpg" alt="">
+        <img src="images/Romance/a-p/p7.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-7.php">
-      Eli 
+      <a href="r-7.php">
+      happiness for beginners 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box8---->
@@ -715,13 +521,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p8.jpg" alt="">
+        <img src="images/Romance/a-p/p8.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-8.php">
-      Feng Shui 
+      <a href="r-8.php">
+      holidate 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box9---->
@@ -729,13 +535,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p9.jpg" alt="">
+        <img src="images/Romance/a-p/p9.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-9.php">
-      Incantation 
+      <a href="r-9.php">
+      Kidnap for romance 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box10---->
@@ -743,13 +549,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p10.jpg" alt="">
+        <img src="images/Romance/a-p/p10.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-10.php">
-      Insidious Red Door 
+      <a href="r-10.php">
+      let it snow 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box11---->
@@ -757,13 +563,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p11.jpg" alt="">
+        <img src="images/Romance/a-p/p11.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-11.php">
-      Kuwaresma 
+      <a href="r-11.php">
+      look both ways 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box12---->
@@ -771,13 +577,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p12.jpg" alt="">
+        <img src="images/Romance/a-p/p12.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-12.php">
-      Ouija 
+      <a href="r-12.php">
+      love and gelato 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box13---->
@@ -785,13 +591,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p13.jpg" alt="">
+        <img src="images/Romance/a-p/p13.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-13.php">
-      Pope_s Exorcist 
+      <a href="r-13.php">
+      love and other drugs 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box14---->
@@ -799,13 +605,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p14.jpg" alt="">
+        <img src="images/Romance/a-p/p14.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-14.php">
-      Shutter 
+      <a href="r-14.php">
+      Love at first sight 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box15---->
@@ -813,13 +619,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p15.jpg" alt="">
+        <img src="images/Romance/a-p/p15.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-15.php">
-      Slender Man
+      <a href="r-15.php">
+      love is in the air
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box16---->
@@ -827,13 +633,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p16.jpg" alt="">
+        <img src="images/Romance/a-p/p16.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-16.php">
-      Sunod 
+      <a href="r-16.php">
+      our souls at night 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
 <!---box17---->
@@ -841,13 +647,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p17.jpg" alt="">
+        <img src="images/Romance/a-p/p17.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-17.php">
-      Texas Chainsaw Massacre 
+      <a href="r-17.php">
+      persuasion
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box18---->
@@ -855,13 +661,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p18.jpg" alt="">
+        <img src="images/Romance/a-p/p18.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-18.php">
-      The Boy
+      <a href="r-18.php">
+      royal treatment
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box19---->
@@ -869,13 +675,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p19.jpg" alt="">
+        <img src="images/Romance/a-p/p19.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-19.php">
-      The Conjuring
+      <a href="r-19.php">
+      set it up
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box20---->
@@ -883,13 +689,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p20.jpg" alt="">
+        <img src="images/Romance/a-p/p20.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-20.php">
-      The Platform
+      <a href="r-20.php">
+      someone great
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box21---->
@@ -897,13 +703,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p21.jpg" alt="">
+        <img src="images/Romance/a-p/p21.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-21.php">
-      The Ritual
+      <a href="r-21.php">
+      the lovebirds
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box22---->
@@ -911,13 +717,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p22.jpg" alt="">
+        <img src="images/Romance/a-p/p22.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-22.php">
-      The Whole Truth
+      <a href="r-22.php">
+      the perfect find
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box23---->
@@ -925,13 +731,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p23.jpg" alt="">
+        <img src="images/Romance/a-p/p23.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-23.php">
-      The Witch
+      <a href="r-23.php">
+      to all the boys I’ve loved before
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box24---->
@@ -939,13 +745,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p24.jpg" alt="">
+        <img src="images/Romance/a-p/p24.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-24.php">
-      Tia Madre
+      <a href="r-24.php">
+      unfaithful
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box25---->
@@ -953,25 +759,63 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/horror/a-p/p25.jpg" alt="">
+        <img src="images/Romance/a-p/p25.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-25.php">
-      Veronica
+      <a href="r-25.php">
+      your place or mine
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
-
-
-
     </div>
+  </section>
+
+  <section>
+  <div>
+  <div class="Trailer">
+      <a href="index.php">
+      <button>
+        Back <img src="images/arrowleft.png" alt="">
+      </button>
+      </a>
+      
+    </div>
+  </div>
+</section>
 
 
 
-    
 
-    
+<section id="latest">
+<footer>
+    <div class="footerContainer">
+          <div class="socialIcons">
+            <a href=""><i class="fa-brands fa-facebook"></i></a>
+            <a href=""><i class="fa-brands fa-instagram"></i></a>
+            <a href=""><i class="fa-brands fa-twitter"></i></a>
+            <a href=""><i class="fa-brands fa-youtube"></i></a>
+          </div>
+          <div class="footerNav">
+              <ul>
+                  <li><a href="">Home</a></li>
+                  <li><a href="">Terms of service</a></li>
+                  <li><a href="">Contact</a></li>
+                  <li><a href="">About</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div class="footerBottom">
+            <p>Copyright &copy;2023; Design by <span class="designer">Cabusas Marvin</span> </p>
+      </div>
+  </footer>
+  </section>
+  
 
 </div>
 </body>
 </html>
+
+
+
+

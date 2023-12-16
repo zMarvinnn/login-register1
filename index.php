@@ -12,6 +12,7 @@ if (!isset($_SESSION["user"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>MovMax</title>
     <link rel="shortcut icon" href="images/Movmax.png"/>
     <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
@@ -58,8 +59,7 @@ if (!isset($_SESSION["user"])) {
     <u class="menu">
       <li><a href="index.php">Home</a></li>
       <li><a href="#">categories</a></li>
-      <li><a href="#">Horror</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="footer1.php">Horror</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
     <div class="search">
@@ -995,55 +995,55 @@ if (!isset($_SESSION["user"])) {
       <p>Horror Movie</p>
     </div>
 
-
+    <div>
 
     </div>
 
+    </div>
+</section>
 
-
-
-
-<div class="container9">
-  <div class="pagination">
-    <button class="btn11" onclick="backBtn()"> <img src="images/arrow.png"> prev</button>
-    <ul>
-      <li class="link active" value="1" onclick="activeLink()">1</li>
-      <li class="#" value="2" onclick="activeLink()">2</li>
-      <li class="#" value="3" onclick="activeLink()">3</li>
-
-    </ul>
-    <button class="btn22" onclick="nextBtn()">next <img src="images/arrow.png"></button>
+<section>
+  <div>
+  <div class="Trailer">
+      <a href="indexPage2.php">
+      <button>
+        Next <img src="images/arrowright.png" alt="">
+      </button>
+      </a>
+      
+    </div>
   </div>
-
-</div>
-
-<script>
-
-  let link = document.getElementsByClassName("link");
-
-  let currentValue = 1;
-      for(l of link){
-        l.classList.remove("active");
-        event.target.classList.add("active");
-        currentValue =event.target.value;
-      }
-
-      function backBtn(){
-        if(currentValue > 1){
-          for(l of link){
-            l.classList.remove("active");
-          }
-          currentValue--;
-          link[currentValue-1].classList.add("active");
-        }
-      }
+</section>
 
 
-</script>
-    
 
-    
 
-</div>
+<!------------------------------------------------Footer----------------------------------------->
+
+<section>
+<footer>
+    <div class="footerContainer">
+          <div class="socialIcons">
+            <a href="https://www.facebook.com/zMarvinnn/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://www.instagram.com/mrvncbs/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://twitter.com/_MaisieAsie" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://www.youtube.com/channel/UC2Vo05PVFE25squ7g_-DmYg" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+          </div>
+          <div class="footerNav">
+              <ul>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="Terms.php">Terms of service</a></li>
+                  <li><a href="">Contact</a></li>
+                  <li><a href="">About</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div class="footerBottom">
+            <p>Copyright &copy;2023; Design by <span class="designer">Marvin Cabusas</span> </p>
+      </div>
+  </footer>
+</section>
+
 </body>
 </html>

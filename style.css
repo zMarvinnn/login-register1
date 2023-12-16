@@ -89,6 +89,7 @@ a{
 }
 
 nav{
+	list-style-type: none;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -579,71 +580,111 @@ button {
   button:hover::before {
 	width: 100%;
   }
+/*pagenext*/
 
 
 
-.container9{
 
+/*Footer*/
+
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+footer{
+	background-color: #111;
+
+}
+.footerContainer{
+	width: 100%;
+	padding: 70px 30px 20px;
+}
+
+.socialIcons{
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
-.pagination{
-	display: flex;
-	align-items: center;
-	background: #fff;
-	color: #383838;
-	padding: 10px 40px;
-	border-radius: 6px;
-
-}
-
-ul{
-	margin: 20px 30px;
-
-}
-
-ul li{
-	display: inline-block;
-	margin: 0 10px;
-	width: 45px;
-	height: 45px;
+.socialIcons a{
+	text-decoration: none;
+	padding: 10px;
+	background-color: white;
+	margin: 10px;
 	border-radius: 50%;
+}
+
+.socialIcons a i{
+	font-size: 2em;
+	color: black;
+	opacity: 0.9;
+}
+
+.socialIcons a:hover{
+	background-color: #111;
+	transition: 0.5s;
+
+}
+
+.socialIcons a:hover i{
+	color: white;
+	transition: 0.5s;
+}
+
+
+.footerNav{
+	margin: 30px 0;
+
+}
+
+.footerNav ul{
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+}
+
+.footerNav ul li a{
+	color: white;
+	margin: 20px;
+	text-decoration: none;
+	font-size: 1.3em;
+	opacity: 0.5s;
+}
+
+.footerNav ul li a:hover{
+	opacity: 1;
+}
+
+.footerBottom{
+	background-color: #000;
+	padding: px;
 	text-align: center;
-	font-size: 22px;
-	font-weight: 500;
-	line-height: 45px;
-	cursor: pointer;
 }
 
-ul li.active{
-	color: #FFF;
-	background-image: linear-gradient(#ff4568,#ff4568);
-	background-repeat: no-repeat;
+.footerBottom p{
+	color: white;
+}
+.designer{
+	opacity: 0.7;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	margin: 0px 5px;
 }
 
+@media (max-width: 700px){
+	.footerNav ul{
+		flex-direction: column;
+	}
+	.footerNav ul li{
+		width: 100%;
+		text-align: center;
+		margin: 10px;
 
-
-.btn11, .btn22{
-	display: inline-flex;
-	align-items: center;
-	font-size: 22px;
-	font-weight: 500;
-	color: #383838;
-	background: transparent;
-	outline: none;
-	border: none;
+	}
 }
 
-.btn11 img{
-	width: 24px;
-	margin-right: 15px;
-}
-
-
-.btn22 img{
-	width: 24px;
-	margin-left: 15px;
-	transform: rotate(180deg);
-}
+/*term*/
