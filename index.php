@@ -824,7 +824,7 @@ if (!isset($_SESSION["user"])) {
         <img src="images/horror/a-p/p13.jpg" alt="">
       </div>
       <!---text---->
-      <a href="h-13.php">
+      <a href="">
       Pope_s Exorcist 
       </a>
       <p>Horror Movie</p>
