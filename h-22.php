@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>The Whole Truth</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wNIY6wfkQxM" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
+        <p><b>Released:</b> 2021-12-02</p>
+        <p><b>Genre:</b>  Horror</p>
+        <p><b>Casts:</b>  Nicole Theriault, Sompob Benjathikul, Nattapat Nimjirawat, PunPun Sutatta Udomsilp, Steven Isarapong Fuhrer</p>
         <p><b>Duration:</b> 125 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Country:</b>  Thailand</p>
+        <p><b>Production:</b>  Transformation Films</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/5n7d94vw" target="_blank">http://tinyurl.com/5n7d94vw</a></p>
+        <p><a href="http://tinyurl.com/3s33xzad" target="_blank">http://tinyurl.com/3s33xzad</a></p>
       </div>
 
 

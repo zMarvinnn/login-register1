@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Slender Man</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ySy8mcceTno" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
+        <p><b>Released:</b> 2018-08-10</p>
+        <p><b>Genre:</b>  Mystery, Thriller, Horror</p>
+        <p><b>Casts:</b> Joey King, Javier Botet, Julia Goldani Telles, Jaz Sinclair, Annalise Basso</p>
+        <p><b>Duration:</b> 93 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Production:</b>  Madhouse Entertainment, Mythology Entertainment, Screen Gems</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/yfmkcb8v" target="_blank">http://tinyurl.com/yfmkcb8v</a></p>
+        <p><a href="http://tinyurl.com/3u9wr679" target="_blank">http://tinyurl.com/3u9wr679</a></p>
       </div>
 
 

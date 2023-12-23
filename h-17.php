@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Texas Chainsaw Massacre</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6VMQHf1tnhs" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
+        <p><b>Released:</b> 2022-02-18</p>
+        <p><b>Genre:</b> Horror</p>
+        <p><b>Casts:</b>  Elsie Fisher, Moe Dunford, Sarah Yarkin, Nell Hudson, Jacob Latimore</p>
+        <p><b>Duration:</b> 81 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Production:</b> Bad Hombre Films, Exurbia Films, Legendary Entertainment</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/56y9nmrp" target="_blank">http://tinyurl.com/56y9nmrp</a></p>
+        <p><a href="http://tinyurl.com/3hbyt4tk" target="_blank">http://tinyurl.com/3hbyt4tk</a></p>
       </div>
 
 

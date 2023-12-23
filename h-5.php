@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Clarita</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WGR95zmkbGc" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>A young woman is apprehended and held by police when they suspect that she is possessed by a demon.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Released:</b> 2019-12-06</p>
+        <p><b>Genre:</b> Horror</p>
+        <p><b>Casts:</b> Jodi Sta. Maria, Ricky Davao, Aaron Villaflor, Romnick Sarmento</p>
+        <p><b>Duration:</b> 85 Min.</p>
+        <p><b>Country:</b> Philippines</p>
+        <p><b>Production:</b> Black Sheep Productions</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/yfhjpf5d" target="_blank">http://tinyurl.com/yfhjpf5d</a></p>
+        <p><a href="http://tinyurl.com/sbr6nf4" target="_blank">http://tinyurl.com/sbr6nf4</a></p>
       </div>
 
 

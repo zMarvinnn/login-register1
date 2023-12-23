@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>The Witch</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iQXmlf3Sefg" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>In 1630s New England, William and Katherine lead a devout Christian life with five children, homesteading on the edge of an impassable wilderness, exiled from their settlement when William defies the local church. </p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Released:</b> 2016-02-19 </p>
+        <p><b>Genre:</b>  Mystery, Horror</p>
+        <p><b>Casts:</b> Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Harvey Scrimshaw, Ellie Grainger</p>
+        <p><b>Duration:</b> 92 min</p>
+        <p><b>Country:</b> United Kingdom, United States of America</p>
+        <p><b>Production:</b>  Very Special Projects, Parts and Labor, RT Features, Rooks Nest Entertainment, Maiden Voyage Pictures, Pulse Films, Scythia Films, Code Red Productions, Mott Street Pictures</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/3269xy48" target="_blank">http://tinyurl.com/3269xy48</a></p>
+        <p><a href=" http://tinyurl.com/4aw9x5hd" target="_blank">http://tinyurl.com/4aw9x5hd</a></p>
       </div>
 
 

@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Eerie</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XHHtvCft9IU" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>When a student's suicide rattles an all-girls Catholic school, a clairvoyant guidance counselor leans on a ghost to uncover the convent's abusive past.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Released:</b> 2018-12-03</p>
+        <p><b>Genre:</b> Horror</p>
+        <p><b>Casts:</b> Bea Alonzo, Charo Santos, Maxene Magalona, Jake Cuenca</p>
+        <p><b>Duration:</b> 101 min</p>
+        <p><b>Country:</b> Philippines</p>
+        <p><b>Production:</b> ABS-CBN Film Productions</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/2j53s9fa" target="_blank">http://tinyurl.com/2j53s9fa</a></p>
+        <p><a href="http://tinyurl.com/c3nafzuf" target="_blank">http://tinyurl.com/c3nafzuf</a></p>
       </div>
 
 

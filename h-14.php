@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Shutter</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CZ6a5tLA8o4" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>A newly married couple discovers disturbing, ghostly images in photographs they develop after a tragic accident. Fearing the manifestations may be connected, they investigate and learn that some mysteries are better left unsolved.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
+        <p><b>Released:</b>2008-03-21</p>
+        <p><b>Genre:</b>  Horror, Mystery, Thriller</p>
+        <p><b>Casts:</b>  Joshua Jackson, Rachael Taylor, Megumi Okina, David Denman, Eri Otoguro</p>
+        <p><b>Duration:</b> 85 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Production:</b> Regency Enterprises, New Regency Pictures, Vertigo Entertainment, Ozla Pictures</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="https:http://tinyurl.com/yc3tc6wf" target="_blank">https:http://tinyurl.com/yc3tc6wf</a></p>
+        <p><a href="http://tinyurl.com/2s3rrzzs" target="_blank">http://tinyurl.com/2s3rrzzs</a></p>
       </div>
 
 

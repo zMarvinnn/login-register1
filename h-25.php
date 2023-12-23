@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Veronica</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AToHyHLYcp4" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>Madrid, June 1991. After celebrating a session of Ouija with her friends, Verónica is besieged by dangerous supernatural presences that threaten to harm her entire family.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Released:</b> 2017-08-25</p>
+        <p><b>Genre:</b> Horror</p>
+        <p><b>Casts:</b> Sandra Escacena, Bruna González, Claudia Placer, Iván Chavero, Ana Torrent</p>
+        <p><b>Duration:</b> 105 min</p>
+        <p><b>Country:</b> Spain</p>
+        <p><b>Production:</b> Apaches Entertainment, Apache Films, Film Factory, Orange S.A., Sony Pictures International Productions, RTVE</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/3f5xfjsk" target="_blank">http://tinyurl.com/3f5xfjsk</a></p>
+        <p><a href="http://tinyurl.com/mr3p4t3y" target="_blank">http://tinyurl.com/mr3p4t3y</a></p>
       </div>
 
 

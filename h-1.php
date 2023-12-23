@@ -84,7 +84,7 @@ if (!isset($_SESSION["user"])) {
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
+        <p><a href="http://tinyurl.com/289adp4j" target="_blank">http://tinyurl.com/289adp4j</a></p>
         <p><a href="http://tinyurl.com/3s8xuvvr" target="_blank">http://tinyurl.com/3s8xuvvr</a></p>
       </div>
 

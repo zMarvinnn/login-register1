@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Eli</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qqEVfXsb9ks" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>A boy named Eli (Charlie Shotwell) with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
+        <p><b>Released:</b> 2019-10-18</p>
+        <p><b>Genre:</b>  Horror</p>
+        <p><b>Casts:</b> Kelly Reilly, Sadie Sink, Lili Taylor, Max Martini, and Charlie Shotwell.</p>
+        <p><b>Duration:</b> 98 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Production:</b>  Paramount Players, Intrepid Pictures, Paramount, Bellevue Productions</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/3khdxakx" target="_blank">http://tinyurl.com/3khdxakx</a></p>
+        <p><a href="http://tinyurl.com/49wvxfww" target="_blank">http://tinyurl.com/49wvxfww</a></p>
       </div>
 
 

@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>The Platform</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RlfooqeZcdY" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>Two people per level. An unknown number of levels. A platform with food for all of them. Are you one of those who think too much when they are up? Or of those who have no guts when they are down? If you discover it too late, you will not live out of the hole.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
-        <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Released:</b>  2019-11-08</p>
+        <p><b>Genre:</b>  Drama, Horror, Science Fiction, Thriller, War</p>
+        <p><b>Casts:</b> Ivan Massagué, Eric Goode, Algis Arlauskas, Emilio Buale, Antonia San Juan</p>
+        <p><b>Duration:</b> 94 min</p>
+        <p><b>Country:</b> Spain</p>
+        <p><b>Production:</b>  Basque Films, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Instituto de Crédito Oficial (ICO), Consejería de Cultura del Gobierno Vasco, Plataforma La Película AIE, Radio Televisión Española (RTVE)</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/24p6936c" target="_blank">http://tinyurl.com/24p6936c</a></p>
+        <p><a href="http://tinyurl.com/ymuxexmp" target="_blank">http://tinyurl.com/ymuxexmp</a></p>
       </div>
 
 

@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>Heart of Stone</b>
+      <b>Insidious: The Red Door</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=XuDwndGaCFo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZuQuOnYnr3Q" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.</p>
+        <p>The Lamberts must go deeper into The Further than ever before to put their demons to rest once and for all.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2023-08-09</p>
-        <p><b>Genre:</b> Thriller, Action</p>
-        <p><b>Casts:</b> Gal Gadot, Jamie Dornan, Alia Bhatt, Matthias Schweighöfer, Sophie Okonedo</p>
-        <p><b>Duration:</b> 125 min</p>
+        <p><b>Released:</b> 2023-07-07</p>
+        <p><b>Genre:</b> Thriller, Horror, Mystery</p>
+        <p><b>Casts:</b> Ty Simpkins, Patrick Wilson, Rose Byrne, Sinclair Daniel, Hiam Abbass, Andrew Astor, Juliana Davies, Steve Coulter, Peter Dager, Joseph Bishara</p>
+        <p><b>Duration:</b> 107 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Skydance, Pilot Wave Motion Pictures, Mockingbird Pictures, Skydance Media</p>
+        <p><b>Production:</b> Sony Pictures Entertainment</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="https://tinyurl.com/8c4y4yuc" target="_blank">https://tinyurl.com/8c4y4yuc</a></p>
+        <p><a href="http://tinyurl.com/bdjz4ds3" target="_blank">http://tinyurl.com/bdjz4ds3</a></p>
+        <p><a href="http://tinyurl.com/ynupksku" target="_blank">http://tinyurl.com/ynupksku</a></p>
       </div>
 
 

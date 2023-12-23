@@ -73,8 +73,8 @@ if (!isset($_SESSION["user"])) {
       </div>
 
       <div class="card">
-        <p><b>Released:</b> 2021-04-21</p>
-        <p><b>Genre:</b> Thriller, Science Fiction, Drama</p>
+        <p><b>Released:</b> 2021</p>
+        <p><b>Genre:</b> Thriller, Horror, Sci-Fi</p>
         <p><b>Casts:</b> Emily Blunt, Millicent Simmonds, Blake DeLong, Ashley Dyke, Gary Sundown</p>
         <p><b>Duration:</b> 97 min</p>
         <p><b>Country:</b> United States of America</p>
@@ -84,8 +84,8 @@ if (!isset($_SESSION["user"])) {
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="http://tinyurl.com/5y7p96jb" target="_blank">http://tinyurl.com/5y7p96jb</a></p>
+        <p><a href="http://tinyurl.com/4wx7tc2y" target="_blank">http://tinyurl.com/4wx7tc2y</a></p>
+        <p><a href="http://tinyurl.com/bdz34m9c" target="_blank">http://tinyurl.com/bdz34m9c</a></p>
       </div>
 
 
