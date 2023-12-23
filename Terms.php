@@ -27,9 +27,8 @@ if (!isset($_SESSION["user"])) {
     </a>
     <u class="menu">
       <li><a href="index.php">Home</a></li>
-      <li><a href="#">categories</a></li>
-      <li><a href="footer1.php">Horror</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="About.php">About</a></li>
+      <li><a href="#">Terms</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
     <div class="search">
@@ -52,31 +51,36 @@ if (!isset($_SESSION["user"])) {
     <link rel="stylesheet" href="./index.css">
 </head>
 <body>
-    <header class="header-mobile dark-theme">
-            <h3 class="title-mobile"> beCoditive API </h3>
-    </header>
+<br><br><br><br>
 
-    <section id="terms-of-service">
-        <div class="card">
-            <h1 class="primary-heading">Terms of Service</h1>
-            <p class="paragraph">
-                The whole set of terms and conditions governing your use of our site is contained in this Agreement. Please carefully read these conditions of use if you want to use the site, its tools, and services. You accept these terms and conditions by using this website, accessing any portion of it, or utilizing any of its services or content. You are not permitted to use the site, its services, or its content if you do not accept all of its terms and conditions. <br> <br>
 
-                <br><br><br>
-                <span class="bold">2) Modifications of Terms and Conditions</span>
-                <br><br>
-                 We may periodically make and implement changes to this agreement without providing you any further notice. Before using our site, you should carefully check the agreement displayed on it as it reflects the most recent version.
-                <br><br>
-                <span class="bold">3) Use of the site</span>
-                <br><br>
-                You can bid, sell, advertise, publish offers, and shop online using the site. The following, however, are forbidden: (a) using our sites, including its services and/or tools, if you are not of legal age, are not able to form legally binding contracts, or are temporarily or permanently suspended from using our sites, services, or tools; (b) posting items in inappropriate categories or areas on our sites and services; (c) gathering personal information about users; (d) manipulating the price of any item or interfering with other users' listings; (f) posting false, inaccurate, misleading, defamatory, or libelous content; and (g) engaging in any activity that could harm the rating system.
-                <br><br><br>
-                <span class="bold">4) Registration Information</span>
-                <br><br>
-                You must enter your complete legal name, current address, working email address, member name, and any additional information requested in order to finish the sign-up procedure on our website. You must meet the requirements of being at least eighteen years old, be in charge of protecting the confidentiality of your password, and be accountable for all actions and materials published under your account. It is forbidden for you to send any viruses, worms, or damaging codes. Any information you submit or that the website or third parties collect while you are on the site is governed by the provisions of the privacy policy on YesMovies.to. 
-                <br><br><br>
-            </p>
-        </div>
+  
+
+<div class="card">
+        <h1><b>Terms of Service</b></h1>
+        <p>The whole set of terms and conditions governing your use of our site is contained in this Agreement. Please carefully read these conditions of use if you want to use the site, its tools, and services. You accept these terms and conditions by using this website, accessing any portion of it, or utilizing any of its services or content. You are not permitted to use the site, its services, or its content if you do not accept all of its terms and conditions.</p>
+        <br><br><br><br>
+        <h1><b>Modifications of Terms and Conditions</b></h1>
+        <p>We may periodically make and implement changes to this agreement without providing you any further notice. Before using our site, you should carefully check the agreement displayed on it as it reflects the most recent version.</p>
+        <br><br><br><br>
+        <h1><b>Use of the site</b></h1>
+        <p>You can bid, sell, advertise, publish offers, and shop online using the site. The following, however, are forbidden: (a) using our sites, including its services and/or tools, if you are not of legal age, are not able to form legally binding contracts, or are temporarily or permanently suspended from using our sites, services, or tools; (b) posting items in inappropriate categories or areas on our sites and services; (c) gathering personal information about users; (d) manipulating the price of any item or interfering with other users' listings; (f) posting false, inaccurate, misleading, defamatory, or libelous content; and (g) engaging in any activity that could harm the rating system.</p>
+        <br><br><br><br>
+        <h1><b>Registration Information</b></h1>
+        <p> You must enter your complete legal name, current address, working email address, member name, and any additional information requested in order to finish the sign-up procedure on our website. You must meet the requirements of being at least eighteen years old, be in charge of protecting the confidentiality of your password, and be accountable for all actions and materials published under your account. It is forbidden for you to send any viruses, worms, or damaging codes. Any information you submit or that the website or third parties collect while you are on the site is governed by the provisions of the privacy policy</p>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
     </section>
 </body>
 </html>

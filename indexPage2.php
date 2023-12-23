@@ -18,6 +18,7 @@ if (!isset($_SESSION["user"])) {
     <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
 </head>
 <body>
+  <br><br>
 
 <!---slider---->
 
@@ -28,9 +29,8 @@ if (!isset($_SESSION["user"])) {
     </a>
     <u class="menu">
       <li><a href="index.php">Home</a></li>
-      <li><a href="#">categories</a></li>
-      <li><a href="#">Romance</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="About.php">About</a></li>
+      <li><a href="Terms.php">Terms</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
     <div class="search">

@@ -49,8 +49,11 @@ if (!isset($_SESSION["user"])) {
 </div>
 
 </div>
-  </section>
+</section>
 
+
+
+<section>
 <div>
   <nav>
     <a href="index.php" class="logo">
@@ -58,15 +61,15 @@ if (!isset($_SESSION["user"])) {
     </a>
     <u class="menu">
       <li><a href="index.php">Home</a></li>
-      <li><a href="#">categories</a></li>
-      <li><a href="footer1.php">Horror</a></li>
+      <li><a href="About.php">About</a></li>
+      <li><a href="Terms.php">Terms</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
-    <div class="search">
+<div class="search">
       <input type="text" placeholder="Find your Favorite Movies Here"/>
       <i class="fas fa-search"></i>
     </div>
-    
+
 
 
 
@@ -1014,8 +1017,6 @@ if (!isset($_SESSION["user"])) {
     </div>
   </div>
 </section>
-
-
 
 
 <!------------------------------------------------Footer----------------------------------------->
