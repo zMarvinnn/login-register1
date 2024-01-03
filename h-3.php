@@ -24,10 +24,9 @@ if (!isset($_SESSION["user"])) {
       <img src="images/Movmax.png"/>
     </a>
     <u class="menu">
-      <li><a href="index.php">Home</a></li>
-      <li><a href="#">Movies</a></li>
-      <li><a href="#">Horror</a></li>
-      <li><a href="#">About</a></li>
+    <li><a href="index.php">Home</a></li>
+      <li><a href="About.php">About</a></li>
+      <li><a href="Terms.php">Terms</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
     <div class="search">
@@ -41,7 +40,7 @@ if (!isset($_SESSION["user"])) {
     <h5 class="showcase-heading-main"><b></b></h5>
       <!---box1---->
     <div class="showcase-box-main">
-    <a href="m-13.php" class="s1">
+    <a href="#" class="s1">
       <img src="images/horror/a-l/l3.jpg"/>
     </a>
     </div>
@@ -101,139 +100,133 @@ if (!isset($_SESSION["user"])) {
   </div>
 
 
-<section id= "movies-list">
+  <section id= "movies-list">
     <!---box1---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
         <div class="quality">HD</div>
-        <img src="images/m1.jpg" alt="">
+        <img src="images/horror/a-p/p1.jpg" alt="">
       </div>
       <!---text---->
-      <a href="Mission.php">
-      Mission: Impossible - Dead Reckoning Part One
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box2---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/m2.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-2.php">
-      The Equalizer 3
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box3---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/m3.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="thenun.php">
-      The Nun II
+      <a href="h-1.php">
+      1922
       </a>
       <p>Horror Movie</p>
     </div>
 
+    <!---box11---->
+<div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/horror/a-p/p11.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="h-11.php">
+      Kuwaresma 
+      </a>
+      <p>Horror Movie</p>
+    </div>
+
+    <!---box12---->
+<div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/horror/a-p/p12.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="h-12.php">
+      Ouija 
+      </a>
+      <p>Horror Movie</p>
+    </div>
+
+    <!---box4---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/horror/a-p/p4.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="h-4.php">
+      Bird Box 
+      </a>
+      <p>Horror Movie</p>
+    </div>
 
     <!---box5---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m5.jpg" alt="">
+        <img src="images/horror/a-p/p5.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-5.php">
-      Saw X
+      <a href="h-5.php">
+      Clarita 
       </a>
       <p>Horror Movie</p>
     </div>
-
-
 
     <!---box6---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m6.jpg" alt="">
+        <img src="images/horror/a-p/p6.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-6.php">
-      Barbie
+      <a href="h-6.php">
+      Eerie 
       </a>
-      <p>Comedy, Adventure, Fantasy</p>
+      <p>Horror Movie</p>
     </div>
-
 
     <!---box7---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m7.jpg" alt="">
+        <img src="images/horror/a-p/p7.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-7.php">
-      Blue Beetle
+      <a href="h-7.php">
+      Eli 
       </a>
-      <p>Action Movie</p>
+      <p>Horror Movie</p>
     </div>
-
-
 
     <!---box8---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m8.jpg" alt="">
+        <img src="images/horror/a-p/p8.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-8.php">
-      Talk to Me
+      <a href="h-8.php">
+      Feng Shui 
       </a>
       <p>Horror Movie</p>
     </div>
 
-
-    <!---box9---->
+<!---box9---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m10.jpg" alt="">
+        <img src="images/horror/a-p/p9.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-9.php">
-      Expend4bles
+      <a href="h-9.php">
+      Incantation 
       </a>
-      <p>Action</p>
+      <p>Horror Movie</p>
     </div>
 
-    <!---box10---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/m9.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-10.php">
-      Meg 2: The Trench
-      </a>
-      <p>Action</p>
-    </div>
 
 
   
