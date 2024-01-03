@@ -25,9 +25,8 @@ if (!isset($_SESSION["user"])) {
     </a>
     <u class="menu">
       <li><a href="index.php">Home</a></li>
-      <li><a href="#">Movies</a></li>
-      <li><a href="#">Horror</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="About.php">About</a></li>
+      <li><a href="Terms.php">Terms</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
     <div class="search">

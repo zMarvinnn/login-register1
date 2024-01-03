@@ -41,7 +41,7 @@ if (!isset($_SESSION["user"])) {
     <h5 class="showcase-heading-main"><b></b></h5>
       <!---box1---->
     <div class="showcase-box-main">
-    <a href="m-13.php" class="s1">
+    <a href="#" class="s1">
       <img src="images/horror/a-l/l1.jpg"/>
     </a>
     </div>
