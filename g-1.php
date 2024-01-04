@@ -25,9 +25,8 @@ if (!isset($_SESSION["user"])) {
     </a>
     <u class="menu">
       <li><a href="index.php">Home</a></li>
-      <li><a href="#">Movies</a></li>
-      <li><a href="#">Horror</a></li>
-      <li><a href="#">About</a></li>
+      <li><a href="About.php">About</a></li>
+      <li><a href="Terms.php">Terms</a></li>
       <li><a href="logout.php">Log Out</a></li>
     </u>
     <div class="search">
@@ -41,7 +40,7 @@ if (!isset($_SESSION["user"])) {
     <h5 class="showcase-heading-main"><b></b></h5>
       <!---box1---->
     <div class="showcase-box-main">
-    <a href="m-13.php" class="s1">
+    <a href="#" class="s1">
       <img src="images/adventure/a-l/l1.jpg"/>
     </a>
     </div>
@@ -49,13 +48,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>1922</b>
+      <b>Amazing Spider Man 2</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=3E_fT0aTsjI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nbp3Ra3Yp74" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +68,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>A simple yet proud rancher conspires to murder his wife for financial gain, convincing his teenage son to participate.</p>
+        <p>For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b>  2017-10-20</p>
-        <p><b>Genre:</b> Crime, Drama, Horror, Mystery, Thriller</p>
-        <p><b>Casts:</b> Thomas Jane, Neal McDonough, Molly Parker, Dylan Schmid, Kaitlyn Bernard</p>
-        <p><b>Duration:</b> 101 min</p>
+        <p><b>Released:</b>  2014-04-16</p>
+        <p><b>Genre:</b> Action, Adventure, Fantasy</p>
+        <p><b>Casts:</b> Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Campbell Scott</p>
+        <p><b>Duration:</b> 142 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Campfire, Netflix</p>
+        <p><b>Production:</b> Marvel Entertainment, Columbia Pictures, Avi Arad Productions, Matt Tolmach Productions, Sony Pictures</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="http://tinyurl.com/3s8xuvvr" target="_blank">http://tinyurl.com/3s8xuvvr</a></p>
+        <p><a href="http://tinyurl.com/5fcyz9fh" target="_blank">http://tinyurl.com/5fcyz9fh</a></p>
+        <p><a href="http://tinyurl.com/3y8meh97" target="_blank">http://tinyurl.com/3y8meh97</a></p>
       </div>
 
 
@@ -101,33 +100,19 @@ if (!isset($_SESSION["user"])) {
   </div>
 
 
-<section id= "movies-list">
-    <!---box1---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-        <div class="quality">HD</div>
-        <img src="images/m1.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="Mission.php">
-      Mission: Impossible - Dead Reckoning Part One
-      </a>
-      <p>Action Movie</p>
-    </div>
-
-    <!---box2---->
-    <div class="movies-box">
+  <section id= "movies-list">
+       <!---box2---->
+       <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m2.jpg" alt="">
+        <img src="images/adventure/a-p/p2.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-2.php">
-      The Equalizer 3
+      <a href="g-2.php">
+      BATTLE_ LOS ANGELES
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
     <!---box3---->
@@ -135,13 +120,28 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m3.jpg" alt="">
+        <img src="images/adventure/a-p/p3.jpg" alt="">
       </div>
       <!---text---->
-      <a href="thenun.php">
-      The Nun II
+      <a href="g-3.php">
+      Battleship 
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
+    </div>
+
+
+    <!---box4---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/adventure/a-p/p4.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="g-4.php">
+      Divergent
+      </a>
+      <p>Adventure Movie</p>
     </div>
 
 
@@ -150,89 +150,83 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m5.jpg" alt="">
+        <img src="images/adventure/a-p/p5.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-5.php">
-      Saw X
+      <a href="g-5.php">
+      Dora and the Lost City of Gold
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
     </div>
-
-
 
     <!---box6---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m6.jpg" alt="">
+        <img src="images/adventure/a-p/p6.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-6.php">
-      Barbie
+      <a href="g-6.php">
+      how to train dragon 2
       </a>
-      <p>Comedy, Adventure, Fantasy</p>
+      <p>Adventure Movie</p>
     </div>
-
 
     <!---box7---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m7.jpg" alt="">
+        <img src="images/adventure/a-p/p7.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-7.php">
-      Blue Beetle
+      <a href="g-7.php">
+      Journey 2 - The Mysterious Island
       </a>
-      <p>Action Movie</p>
+      <p>Adventure Movie</p>
     </div>
-
-
 
     <!---box8---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m8.jpg" alt="">
+        <img src="images/adventure/a-p/p8.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-8.php">
-      Talk to Me
+      <a href="g-8.php">
+      Jumanji 2 The next level
       </a>
-      <p>Horror Movie</p>
+      <p>Adventure Movie</p>
     </div>
 
-
-    <!---box9---->
+<!---box9---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m10.jpg" alt="">
+        <img src="images/adventure/a-p/p9.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-9.php">
-      Expend4bles
+      <a href="g-9.php">
+      Jumanji_ Welcome to the Jungle
       </a>
-      <p>Action</p>
+      <p>Adventure Movie</p>
     </div>
 
-    <!---box10---->
+<!---box10---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m9.jpg" alt="">
+        <img src="images/adventure/a-p/p10.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-10.php">
-      Meg 2: The Trench
+      <a href="g-10.php">
+      jungle cruise
       </a>
-      <p>Action</p>
+      <p>Adventure Movie</p>
     </div>
 
 

@@ -41,7 +41,7 @@ if (!isset($_SESSION["user"])) {
     <h5 class="showcase-heading-main"><b></b></h5>
       <!---box1---->
     <div class="showcase-box-main">
-    <a href="m-13.php" class="s1">
+    <a href="#" class="s1">
       <img src="images/Romance/a-l/l17.jpg"/>
     </a>
     </div>
@@ -49,13 +49,13 @@ if (!isset($_SESSION["user"])) {
 
   <div class="Title1">
     <div class="box">
-      <b>1922</b>
+      <b>Persuasion</b>
     </div>
   </div>
 
 
     <div class="Trailer">
-      <a href="https://www.youtube.com/watch?v=3E_fT0aTsjI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Fz7HmgPJQak" target="_blank">
       <button>
         TRAILER <img src="images/play-regular-24.png" alt="">
       </button>
@@ -69,23 +69,23 @@ if (!isset($_SESSION["user"])) {
     <div class="flex">
       <div class="card">
         <h1><b>Description</b></h1>
-        <p>A simple yet proud rancher conspires to murder his wife for financial gain, convincing his teenage son to participate.</p>
+        <p>Living with her snobby family on the brink of bankruptcy, Anne Elliot is an unconforming woman with modern sensibilities. When Frederick Wentworth - the dashing one she once sent away - crashes back into her life, Anne must choose between putting the past behind her or listening to her heart when it comes to second chances.</p>
       </div>
 
       <div class="card">
-        <p><b>Released:</b>  2017-10-20</p>
-        <p><b>Genre:</b> Crime, Drama, Horror, Mystery, Thriller</p>
-        <p><b>Casts:</b> Thomas Jane, Neal McDonough, Molly Parker, Dylan Schmid, Kaitlyn Bernard</p>
-        <p><b>Duration:</b> 101 min</p>
+        <p><b>Released:</b>  2022-07-01</p>
+        <p><b>Genre:</b> Romance, Drama</p>
+        <p><b>Casts:</b> Cosmo Jarvis, Dakota Johnson, Henry Golding, Nikki Amuka-Bird, Richard E. Grant</p>
+        <p><b>Duration:</b> 107 min</p>
         <p><b>Country:</b> United States of America</p>
-        <p><b>Production:</b> Campfire, Netflix</p>
+        <p><b>Production:</b> Media Rights Capital</p>
 
       </div>
 
       <div class="card">
         <h1><b>Links</b></h1>
-        <p><a href="https://tinyurl.com/22sufejm" target="_blank">https://tinyurl.com/22sufejm</a></p>
-        <p><a href="http://tinyurl.com/3s8xuvvr" target="_blank">http://tinyurl.com/3s8xuvvr</a></p>
+        <p><a href="http://tinyurl.com/4kxz9yf4" target="_blank">http://tinyurl.com/4kxz9yf4</a></p>
+        <p><a href="http://tinyurl.com/2p9t3mnh" target="_blank">http://tinyurl.com/2p9t3mnh</a></p>
       </div>
 
 
@@ -107,13 +107,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
         <div class="quality">HD</div>
-        <img src="images/m1.jpg" alt="">
+        <img src="images/Romance/a-p/p1.jpg" alt="">
       </div>
       <!---text---->
-      <a href="Mission.php">
-      Mission: Impossible - Dead Reckoning Part One
+      <a href="r-1.php">
+      a tourist guide to love
       </a>
-      <p>Action Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box2---->
@@ -121,13 +121,13 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m2.jpg" alt="">
+        <img src="images/Romance/a-p/p2.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-2.php">
-      The Equalizer 3
+      <a href="r-2.php">
+      alex strangelove 
       </a>
-      <p>Action Movie</p>
+      <p>Romance Movie</p>
     </div>
 
     <!---box3---->
@@ -135,13 +135,28 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m3.jpg" alt="">
+        <img src="images/Romance/a-p/p3.jpg" alt="">
       </div>
       <!---text---->
-      <a href="thenun.php">
-      The Nun II
+      <a href="r-3.php">
+      along for the ride 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
+    </div>
+
+
+    <!---box4---->
+    <div class="movies-box">
+      <!---img---->
+      <div class="movies-img">
+      <div class="quality">HD</div>
+        <img src="images/Romance/a-p/p4.jpg" alt="">
+      </div>
+      <!---text---->
+      <a href="r-4.php">
+      always be my maybe 
+      </a>
+      <p>Romance Movie</p>
     </div>
 
 
@@ -150,89 +165,69 @@ if (!isset($_SESSION["user"])) {
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m5.jpg" alt="">
+        <img src="images/Romance/a-p/p5.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-5.php">
-      Saw X
+      <a href="r-5.php">
+      good on paper
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
-
-
 
     <!---box6---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m6.jpg" alt="">
+        <img src="images/Romance/a-p/p6.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-6.php">
-      Barbie
+      <a href="r-6.php">
+      Greenberg 
       </a>
-      <p>Comedy, Adventure, Fantasy</p>
+      <p>Romance Movie</p>
     </div>
-
 
     <!---box7---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m7.jpg" alt="">
+        <img src="images/Romance/a-p/p7.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-7.php">
-      Blue Beetle
+      <a href="r-7.php">
+      happiness for beginners 
       </a>
-      <p>Action Movie</p>
+      <p>Romance Movie</p>
     </div>
-
-
 
     <!---box8---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m8.jpg" alt="">
+        <img src="images/Romance/a-p/p8.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-8.php">
-      Talk to Me
+      <a href="r-8.php">
+      holidate 
       </a>
-      <p>Horror Movie</p>
+      <p>Romance Movie</p>
     </div>
 
-
-    <!---box9---->
+<!---box9---->
     <div class="movies-box">
       <!---img---->
       <div class="movies-img">
       <div class="quality">HD</div>
-        <img src="images/m10.jpg" alt="">
+        <img src="images/Romance/a-p/p9.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-9.php">
-      Expend4bles
+      <a href="r-9.php">
+      Kidnap for romance 
       </a>
-      <p>Action</p>
-    </div>
-
-    <!---box10---->
-    <div class="movies-box">
-      <!---img---->
-      <div class="movies-img">
-      <div class="quality">HD</div>
-        <img src="images/m9.jpg" alt="">
-      </div>
-      <!---text---->
-      <a href="m-10.php">
-      Meg 2: The Trench
-      </a>
-      <p>Action</p>
+      <p>Romance Movie</p>
     </div>
 
 
