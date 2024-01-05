@@ -41,7 +41,7 @@ if (!isset($_SESSION["user"])) {
       <!---box1---->
     <div class="showcase-box-main">
     <a href="#" class="s1">
-      <img src="images/adventure/a-l/l8.jpg"/>
+      <img src="images/adventure/a-l/l8.png"/>
     </a>
     </div>
   </section>

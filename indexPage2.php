@@ -201,7 +201,7 @@ if (!isset($_SESSION["user"])) {
         <img src="images/adventure/a-p/p11.jpg" alt="">
       </div>
       <!---text---->
-      <a href="m-11.php">
+      <a href="g-11.php">
       Jupiter Ascending [2015]
       </a>
       <p>Adventure Movie</p>
